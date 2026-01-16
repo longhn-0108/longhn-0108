@@ -3,10 +3,10 @@
 ### 👨‍💻 AI Engineer Intern | Data Science and AI Student
 Tôi là sinh viên chuyên ngành **Khoa học Dữ liệu & Trí tuệ Nhân tạo** tại **Đại học Bách Khoa Hà Nội (HUST)**. Tôi đam mê xây dựng các ứng dụng AI thực tế và nghiên cứu chuyên sâu về Deep Learning, Computer Vision và NLP.
 
-- [cite_start]🔭 **Lĩnh vực quan tâm:** Green AI (Energy-Efficient DL), Domain Generalization, Time-Series Forecasting[cite: 14, 22, 30].
-- [cite_start]🌱 **Đang tìm kiếm:** Cơ hội thực tập AI Engineer (Machine Learning / Computer Vision / NLP).
-- [cite_start]⚡ **Sở thích:** Đọc sách kỹ thuật, chơi thể thao và nghiên cứu các mô hình AI mới[cite: 51, 53].
-- [cite_start]📫 **Liên hệ:** [long.hoangnguyen0108@gmail.com](mailto:long.hoangnguyen0108@gmail.com) [cite: 3]
+- 🔭 **Lĩnh vực quan tâm:** Green AI (Energy-Efficient DL), Domain Generalization, Time-Series Forecasting[cite: 14, 22, 30].
+- 🌱 **Đang tìm kiếm:** Cơ hội thực tập AI Engineer (Machine Learning / Computer Vision / NLP).
+- ⚡ **Sở thích:** Đọc sách kỹ thuật, chơi thể thao và nghiên cứu các mô hình AI mới[cite: 51, 53].
+- 📫 **Liên hệ:** [long.hoangnguyen0108@gmail.com](mailto:long.hoangnguyen0108@gmail.com) [cite: 3]
 
 ---
 
@@ -45,6 +45,6 @@ Dưới đây là các dự án nổi bật tôi đã thực hiện:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longhn-0108&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="github stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="top languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=longhn_0108&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longhn_0108&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="top languages" height="150" />
 </div>
