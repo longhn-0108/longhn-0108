@@ -1,7 +1,7 @@
 # Hi there, I'm Hoàng Nguyên Long 👋
 
-### 👨‍💻 AI Engineer Intern | Data Science Student
-[cite_start]Tôi là sinh viên chuyên ngành **Khoa học Dữ liệu & Trí tuệ Nhân tạo** tại **Đại học Bách Khoa Hà Nội (HUST)**. Tôi đam mê xây dựng các ứng dụng AI thực tế và nghiên cứu chuyên sâu về Deep Learning, Computer Vision và NLP.
+### 👨‍💻 AI Engineer Intern | Data Science and AI Student
+Tôi là sinh viên chuyên ngành **Khoa học Dữ liệu & Trí tuệ Nhân tạo** tại **Đại học Bách Khoa Hà Nội (HUST)**. Tôi đam mê xây dựng các ứng dụng AI thực tế và nghiên cứu chuyên sâu về Deep Learning, Computer Vision và NLP.
 
 - [cite_start]🔭 **Lĩnh vực quan tâm:** Green AI (Energy-Efficient DL), Domain Generalization, Time-Series Forecasting[cite: 14, 22, 30].
 - [cite_start]🌱 **Đang tìm kiếm:** Cơ hội thực tập AI Engineer (Machine Learning / Computer Vision / NLP).
