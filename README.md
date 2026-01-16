@@ -45,6 +45,6 @@ Dưới đây là các dự án nổi bật tôi đã thực hiện:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=longhn_0108&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=longhn-0108&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="github stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longhn_0108&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" alt="top languages" height="150" />
 </div>
