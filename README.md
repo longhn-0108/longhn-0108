@@ -10,18 +10,18 @@ My work spans **LLM systems, Computer Vision, efficient AI, and domain generaliz
 ## Research Interests
 
 * **Agentic AI & LLM Systems** — multi-LLM orchestration, RAG, evaluation
-* **Computer Vision** — object detection, multi-object tracking, domain generalization
-* **Efficient / Green AI** — pruning, quantization, energy-aware model evaluation
-* **Robust Machine Learning** — domain generalization and cross-domain evaluation
+* **Computer Vision** — object detection, multi-object tracking, image classification
+* **Domain Generalization** — cross-domain learning and robust visual recognition
+* **Efficient / Green AI** — model compression, pruning, quantization, energy-aware evaluation
 
 ## Featured Projects
 
-| Project                                                                                             | Description                                                                                                                                    | Stack                            |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization)** | Cross-domain traffic-sign recognition using **MixStyle** and **SWAD** with a ResNet-18 backbone                                                | PyTorch                          |
-| **[Traffic Law Q&A — Grounded RAG](https://github.com/longhn-0108/Vietnamese-Traffic-Law-RAG)**     | Retrieval-augmented Q&A system for Vietnamese traffic law with hybrid retrieval, reranking, grounding constraints, and an evaluation benchmark | Python · LLM API · Vector Search |
-| **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**   | Multi-object tracking pipeline combining object detection with **SORT, DeepSORT, and ByteTrack**, with evaluation-oriented project structure   | Python · PyTorch · OpenCV        |
-| **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**       | Study of the accuracy–efficiency–energy trade-off of pruning and INT8 quantization using CIFAR-100 and CodeCarbon                              | PyTorch · CodeCarbon             |
+| Project                                                                                                           | Description                                                                                                                                                           | Stack                            |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization-traffic-signs)** | Cross-country traffic sign classification across Germany, Russia, and America using **ResNet-18, MixStyle, SWAD, and SWAD + MixStyle**, with unseen-domain evaluation | PyTorch                          |
+| **[Traffic Law Q&A — Grounded RAG](https://github.com/longhn-0108/Vietnamese-Traffic-Law-RAG)**                   | Retrieval-augmented Q&A system for Vietnamese traffic law with hybrid retrieval, reranking, grounding constraints, and an evaluation benchmark                        | Python · LLM API · Vector Search |
+| **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**                 | Multi-object tracking pipeline combining object detection with **SORT, DeepSORT, and ByteTrack**, with an evaluation-oriented project structure                       | Python · PyTorch · OpenCV        |
+| **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**                     | Study of the accuracy–efficiency–energy trade-off of pruning and INT8 quantization using CIFAR-100 and CodeCarbon                                                     | PyTorch · CodeCarbon             |
 
 ## Experience
 
@@ -44,7 +44,7 @@ Python · SQL · C
 PyTorch · Scikit-learn · Hugging Face Transformers · NumPy · Pandas
 
 **Computer Vision**
-Object Detection · Multi-Object Tracking · OpenCV · Domain Generalization
+Object Detection · Image Classification · Multi-Object Tracking · OpenCV · Domain Generalization
 
 **LLM / AI Systems**
 RAG · LLM APIs · Prompt Engineering · Multi-LLM Orchestration · n8n
