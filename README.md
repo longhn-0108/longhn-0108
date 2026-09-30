@@ -1,40 +1,68 @@
 # Hoàng Nguyên Long
 
-B.Eng. student in **Data Science and Artificial Intelligence** at Hanoi University of Science and Technology (HUST), graduating in 2027.
+**B.Eng. Student in Data Science & Artificial Intelligence at Hanoi University of Science and Technology (HUST)**
+Expected graduation: 2027
 
-I build and evaluate AI systems, from LLM-based applications and agentic workflows to deep learning models, with an emphasis on **strong baselines, honest evaluation, and reproducible experiments**.
+I build and evaluate **AI/ML systems**, with a focus on practical implementation, reproducible experiments, and reliable evaluation.
 
-**Interests:** Agentic AI & LLM Systems · Computer Vision · Efficient AI · Domain Generalization
+My work spans **LLM systems, Computer Vision, efficient AI, and domain generalization** — from building grounded RAG pipelines to training and evaluating deep learning models.
+
+## Research Interests
+
+* **Agentic AI & LLM Systems** — multi-LLM orchestration, RAG, evaluation
+* **Computer Vision** — object detection, multi-object tracking, domain generalization
+* **Efficient / Green AI** — pruning, quantization, energy-aware model evaluation
+* **Robust Machine Learning** — domain generalization and cross-domain evaluation
 
 ## Featured Projects
 
-| Project                                                                                                           | What it is                                                                                                              | Stack                             |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| [**Domain Generalization for Traffic Signs**](https://github.com/longhn-0108/domain-generalization-traffic-signs) | Cross-domain traffic-sign recognition across Germany, Russia, and USA using MixStyle and SWAD with a ResNet-18 backbone | PyTorch                           |
-| [**Traffic Law Q&A — Grounded RAG**](https://github.com/longhn-0108/rag-traffic-law-qa)                           | Retrieval-augmented Q&A over Vietnamese traffic law, designed with grounding constraints and an evaluation set          | Python · LLM APIs · Vector Search |
-| [**Green AI — Model Compression**](https://github.com/longhn-0108/green-ai-model-compression)                     | Evaluation of accuracy–efficiency trade-offs from pruning, quantization, and lightweight architectures on CIFAR-100     | PyTorch · CodeCarbon              |
+| Project                                                                                             | Description                                                                                                                                    | Stack                            |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization)** | Cross-domain traffic-sign recognition using **MixStyle** and **SWAD** with a ResNet-18 backbone                                                | PyTorch                          |
+| **[Traffic Law Q&A — Grounded RAG](https://github.com/longhn-0108/Vietnamese-Traffic-Law-RAG)**     | Retrieval-augmented Q&A system for Vietnamese traffic law with hybrid retrieval, reranking, grounding constraints, and an evaluation benchmark | Python · LLM API · Vector Search |
+| **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**   | Multi-object tracking pipeline combining object detection with **SORT, DeepSORT, and ByteTrack**, with evaluation-oriented project structure   | Python · PyTorch · OpenCV        |
+| **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**       | Study of the accuracy–efficiency–energy trade-off of pruning and INT8 quantization using CIFAR-100 and CodeCarbon                              | PyTorch · CodeCarbon             |
 
 ## Experience
 
-**AI Engineer Intern — LaunchMate Co., Ltd.**
-*Feb 2025 – Jul 2025*
+### AI Engineer Intern — LaunchMate Co., Ltd.
 
-* Designed and deployed a production multi-LLM automation system using **n8n**, integrating GPT-4, Claude, Gemini, and Perplexity.
-* Built automated AI workflows for real-world client use cases.
+**Feb 2025 – Jul 2025**
+
+* Developed a production-oriented **multi-LLM content automation system** using n8n.
+* Integrated multiple LLM providers, including GPT, Claude, Gemini, and Perplexity.
+* Designed workflow-based automation for research, content generation, and downstream processing.
 * The system was adopted by **3 Japanese enterprise clients**.
-* Client implementation is proprietary and therefore not publicly available.
+* Client implementation is private and therefore not published on GitHub.
 
 ## Technical Skills
 
-**Languages:** Python · SQL · C
+**Programming**
+Python · SQL · C
 
-**Machine Learning:** PyTorch · Scikit-learn · HuggingFace Transformers
+**Machine Learning / Deep Learning**
+PyTorch · Scikit-learn · Hugging Face Transformers · NumPy · Pandas
 
-**Data:** Pandas · NumPy
+**Computer Vision**
+Object Detection · Multi-Object Tracking · OpenCV · Domain Generalization
 
-**AI Systems:** LLM APIs · RAG · Vector Search · n8n
+**LLM / AI Systems**
+RAG · LLM APIs · Prompt Engineering · Multi-LLM Orchestration · n8n
 
-**Tools:** Git
+**Engineering**
+Git · GitHub · Linux · Reproducible Experiments
+
+## What I Care About
+
+I am particularly interested in building AI systems that are not only functional, but also **measurable, reproducible, and efficient**.
+
+For research-oriented projects, I focus on:
+
+* establishing clear baselines
+* designing controlled experiments
+* reporting metrics honestly
+* comparing methods under consistent conditions
+* documenting limitations and reproducibility details
 
 ## Contact
 
