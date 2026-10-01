@@ -5,23 +5,25 @@ Expected graduation: 2027
 
 I build and evaluate **AI/ML systems**, with a focus on practical implementation, reproducible experiments, and reliable evaluation.
 
-My work spans **LLM systems, Computer Vision, efficient AI, and domain generalization** — from building grounded RAG pipelines to training and evaluating deep learning models.
+My work spans **LLM systems, AI automation, Computer Vision, efficient AI, and applied machine learning** — from multi-LLM workflows and grounded RAG systems to deep learning and scientific forecasting.
 
 ## Research Interests
 
-* **Agentic AI & LLM Systems** — multi-LLM orchestration, RAG, evaluation
-* **Computer Vision** — object detection, multi-object tracking, image classification
-* **Domain Generalization** — cross-domain learning and robust visual recognition
-* **Efficient / Green AI** — model compression, pruning, quantization, energy-aware evaluation
+* **Agentic AI & AgentOS** — multi-LLM orchestration, tool use, RAG, workflow automation
+* **AI for Software Engineering** — AI-assisted development, code generation, testing, debugging, and software workflows
+* **LLM Systems** — retrieval, evaluation, grounding, and reliable AI pipelines
+* **Computer Vision** — object detection, multi-object tracking, domain generalization
+* **Efficient & Reliable AI** — model efficiency, reproducibility, and robust evaluation
 
 ## Featured Projects
 
-| Project                                                                                                           | Description                                                                                                                                                           | Stack                            |
-| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization-traffic-signs)** | Cross-country traffic sign classification across Germany, Russia, and America using **ResNet-18, MixStyle, SWAD, and SWAD + MixStyle**, with unseen-domain evaluation | PyTorch                          |
-| **[Traffic Law Q&A — Grounded RAG](https://github.com/longhn-0108/Vietnamese-Traffic-Law-RAG)**                   | Retrieval-augmented Q&A system for Vietnamese traffic law with hybrid retrieval, reranking, grounding constraints, and an evaluation benchmark                        | Python · LLM API · Vector Search |
-| **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**                 | Multi-object tracking pipeline combining object detection with **SORT, DeepSORT, and ByteTrack**, with an evaluation-oriented project structure                       | Python · PyTorch · OpenCV        |
-| **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**                     | Study of the accuracy–efficiency–energy trade-off of pruning and INT8 quantization using CIFAR-100 and CodeCarbon                                                     | PyTorch · CodeCarbon             |
+| Project                                                                                                           | Description                                                                                                                                             | Stack                                     |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **[Traffic Law Q&A — Grounded RAG](https://github.com/longhn-0108/Vietnamese-Traffic-Law-RAG)**                   | Retrieval-augmented Q&A system for Vietnamese traffic law, combining hybrid retrieval, reranking, grounding constraints, and benchmark-based evaluation | Python · LLM API · Vector Search          |
+| **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization-traffic-signs)** | Cross-country traffic sign classification using ResNet-18, MixStyle, SWAD, and SWAD + MixStyle, with evaluation on unseen geographic domains            | PyTorch                                   |
+| **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**                 | Multi-object tracking pipeline combining object detection with SORT, DeepSORT, and ByteTrack for traffic video analysis                                 | Python · PyTorch · OpenCV                 |
+| **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**                     | Study of the accuracy–efficiency–energy trade-off of model pruning and INT8 quantization using CIFAR-100 and CodeCarbon                                 | PyTorch · CodeCarbon                      |
+| **Multi-Source Hydrology Forecasting**                                                                            | Hydrological forecasting pipeline integrating GRDC, NOAA, ERA5, TIGGE, and HydroBASINS/HydroATLAS data, with LSTM-based forecasting                     | Python · PyTorch · LSTM · Geospatial Data |
 
 ## Experience
 
@@ -43,24 +45,27 @@ Python · SQL · C
 **Machine Learning / Deep Learning**
 PyTorch · Scikit-learn · Hugging Face Transformers · NumPy · Pandas
 
+**LLM / AI Systems**
+LLM APIs · RAG · Prompt Engineering · Multi-LLM Orchestration · n8n · AI Workflow Automation
+
 **Computer Vision**
 Object Detection · Image Classification · Multi-Object Tracking · OpenCV · Domain Generalization
 
-**LLM / AI Systems**
-RAG · LLM APIs · Prompt Engineering · Multi-LLM Orchestration · n8n
+**Data & Scientific Computing**
+Time-Series Forecasting · Geospatial Data · ERA5 · HydroBASINS · Data Preprocessing
 
 **Engineering**
 Git · GitHub · Linux · Reproducible Experiments
 
 ## What I Care About
 
-I am particularly interested in building AI systems that are not only functional, but also **measurable, reproducible, and efficient**.
+I am interested in building AI systems that are not only functional, but also **measurable, reproducible, and reliable**.
 
 For research-oriented projects, I focus on:
 
 * establishing clear baselines
 * designing controlled experiments
-* reporting metrics honestly
+* evaluating systems with appropriate metrics
 * comparing methods under consistent conditions
 * documenting limitations and reproducibility details
 
