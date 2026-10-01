@@ -23,7 +23,7 @@ My work spans **LLM systems, AI automation, Computer Vision, efficient AI, and a
 | **[Domain Generalization for Traffic Signs](https://github.com/longhn-0108/domain-generalization-traffic-signs)** | Cross-country traffic sign classification using ResNet-18, MixStyle, SWAD, and SWAD + MixStyle, with evaluation on unseen geographic domains            | PyTorch                                   |
 | **[Traffic Multi-Object Tracking](https://github.com/longhn-0108/traffic-multi-object-tracking)**                 | Multi-object tracking pipeline combining object detection with SORT, DeepSORT, and ByteTrack for traffic video analysis                                 | Python · PyTorch · OpenCV                 |
 | **[Green AI — Model Compression](https://github.com/longhn-0108/green-ai-model-compression)**                     | Study of the accuracy–efficiency–energy trade-off of model pruning and INT8 quantization using CIFAR-100 and CodeCarbon                                 | PyTorch · CodeCarbon                      |
-| **Multi-Source Hydrology Forecasting**                                                                            | Hydrological forecasting pipeline integrating GRDC, NOAA, ERA5, TIGGE, and HydroBASINS/HydroATLAS data, with LSTM-based forecasting                     | Python · PyTorch · LSTM · Geospatial Data |
+| **[Multi-Source Hydrology Forecasting](https://github.com/longhn-0108/multi-source-hydrology-forecast)**                                                                            | Hydrological forecasting pipeline integrating GRDC, NOAA, ERA5, TIGGE, and HydroBASINS/HydroATLAS data, with LSTM-based forecasting                     | Python · PyTorch · LSTM · Geospatial Data |
 
 ## Experience
 
