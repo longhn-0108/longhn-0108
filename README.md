@@ -29,7 +29,7 @@ My work spans **LLM systems, AI automation, Computer Vision, efficient AI, and a
 
 ### AI Engineer Intern — LaunchMate Co., Ltd.
 
-**Feb 2025 – Jul 2025**
+**Feb 2026 – Jul 2026**
 
 * Developed a production-oriented **multi-LLM content automation system** using n8n.
 * Integrated multiple LLM providers, including GPT, Claude, Gemini, and Perplexity.
